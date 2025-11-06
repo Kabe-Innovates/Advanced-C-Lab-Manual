@@ -77,7 +77,7 @@ int main() {
 ```
 
 ### Output:
-![alt text](image-15.png)
+![alt text](imgs/image-15.png)
 
 ### Result:
 Thus, the program to search a given element in the given linked list is verified successfully.
@@ -156,7 +156,7 @@ int main() {
 ```
 
 ### Output:
-![alt text](image-16.png)
+![alt text](imgs/image-16.png)
 
 ### Result:
 Thus, the program to insert a node in a linked list is verified successfully.
@@ -232,7 +232,7 @@ int main() {
 ```
 
 ### Output:
-![alt text](image-17.png)
+![alt text](imgs/image-17.png)
 
 ### Result:
 Thus, the program to traverse a doubly linked list is verified successfully.
@@ -377,7 +377,7 @@ int main() {
 ```
 
 ### Output:
-![alt text](image-19.png)
+![alt text](imgs/image-19.png)
 
 ### Result:
 Thus, the program to insert an element in doubly linked list is verified successfully.
@@ -534,7 +534,7 @@ int main() {
 ```
 
 ### Output:
-![alt text](image-18.png)
+![alt text](imgs/image-18.png)
 
 ### Result:
 Thus, the function that deletes a given element from a linked list is verified successfully.
